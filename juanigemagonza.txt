@@ -1,1 +1,2 @@
 juanigemagonza
+archivo creado en git para la clase3
